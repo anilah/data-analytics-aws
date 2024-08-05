@@ -1,0 +1,24 @@
+Date,Time,Euipment ID,Equipment Name,Equipment type,Attribute name,Attribute value,desc
+2/06/2024,17:30:28,EQU-ID-1,server-web-1,web-server,CPUUtlization,11,ideal should stay below 80 
+2/06/2024,17:30:28,EQU-ID-2,server-web-2,web-server,CPUUtlization,11,ideal should stay below 81 
+2/06/2024,17:30:28,EQU-ID-3,server-wev-3,web-server,CPUUtlization,11,ideal should stay below 82 
+2/06/2024,17:30:28,EQU-ID-4,server-app-1,app-server,CPUUtlization,11,ideal should stay below 83 
+2/06/2024,17:30:28,EQU-ID-5,server-app-2,app-server,CPUUtlization,11,ideal should stay below 84 
+2/06/2024,17:30:28,EQU-ID-6,server-app-3,app-server,CPUUtlization,11,ideal should stay below 85 
+2/06/2024,17:30:28,EQU-ID-7,server-app-4,app-server,CPUUtlization,11,ideal should stay below 86 
+2/06/2024,17:30:28,EQU-ID-8,server-app-5,app-server,CPUUtlization,11,ideal should stay below 87 
+2/06/2024,17:30:28,EQU-ID-9,server-app-6,app-server,CPUUtlization,11,ideal should stay below 88 
+2/06/2024,17:30:28,EQU-ID-10,server-DB-1,database-server,CPUUtlization,11,ideal should stay below 89 
+2/06/2024,17:30:28,EQU-ID-10,server-DB-1,database-server,storageused,11,HardDisk Size is 500GB
+2/06/2024,17:30:28,EQU-ID-10,server-DB-1,database-server,memoryused,11,
+2/06/2024,17:30:28,EQU-ID-11,server-DB-2,database-server,CPUUtlization,11,
+2/06/2024,17:30:28,EQU-ID-11,server-DB-2,database-server,storageused,11,HardDisk Size is 500GB
+2/06/2024,17:30:28,EQU-ID-11,server-DB-2,database-server,memoryused,11,
+2/06/2024,17:30:28,EQU-ID-12,server-DB-3,database-server,CPUUtlization,11,
+2/06/2024,17:30:28,EQU-ID-12,server-DB-3,database-server,storageused,11,HardDisk Size is 500GB
+2/06/2024,17:30:28,EQU-ID-12,server-DB-3,database-server,memoryused,11,
+2/06/2024,17:30:28,EQU-ID-13,Fire-sensor,SEN,smokeDectted,0,0 for No and  1 for yes
+2/06/2024,17:30:28,EQU-ID-14,Temp-sensor,SEN,temp,11,ideal should stay below 20
+2/06/2024,17:30:28,EQU-ID-15,humidity-sensor,SEN,humidity,11,ideal should stay between 40 & 60
+2/06/2024,17:30:28,EQU-ID-16,UPS,UPS,input power,11,
+2/06/2024,17:30:28,EQU-ID-17,UPS,UPS,output power,11,

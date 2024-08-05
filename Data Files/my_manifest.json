@@ -1,0 +1,21 @@
+
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://bt-course-bucket-1/raw-data/YYYY=2024/MM=06/data-01-06-2024.csv",
+				"s3://bt-course-bucket-1/raw-data/YYYY=2024/MM=06/data-02-06-2024.csv",
+				"s3://bt-course-bucket-1/raw-data/YYYY=2024/MM=06/data-27-06-2024.csv",
+				"s3://bt-course-bucket-1/raw-data/YYYY=2024/MM=06/data-28-06-2024.csv",
+               
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+								
